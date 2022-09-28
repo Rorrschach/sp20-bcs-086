@@ -1,0 +1,28 @@
+.header-bar {
+    background-color: rgba(0, 0, 0, .85);
+    /* position: fixed; */
+}
+
+li a {
+    color: #fff;
+    
+}
+
+li a:hover {
+    color: white;
+}
+
+.hero-section {
+    height: 500px;
+}
+
+.abc {
+    background-image: url("/img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.abc img {
+    opacity: 0.5;
+}
